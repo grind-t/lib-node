@@ -5,7 +5,6 @@
     "target": "esnext",
     "module": "nodenext",
     "allowImportingTsExtensions": true,
-    "erasableSyntaxOnly": true,
     "verbatimModuleSyntax": true,
     "skipLibCheck": true,
     "strict": true
