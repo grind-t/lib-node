@@ -31,7 +31,6 @@
     "build": "tsdown"
   },
   "devDependencies": {
-    "@biomejs/biome": "latest",
     "@types/node": "latest",
     "oxfmt": "latest",
     "oxlint": "latest",

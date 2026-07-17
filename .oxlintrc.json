@@ -16,6 +16,7 @@
           }
         ]
       }
-    ]
+    ],
+    "unicorn/filename-case": "error"
   }
 }
